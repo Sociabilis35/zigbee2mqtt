@@ -1,6 +1,9 @@
 # Home Assistant integration (MQTT discovery)
 homeassistant: false
 
+# Domoticz integration (MQTT discovery)
+domoticz: false
+
 # allow new devices to join
 permit_join: true
 
